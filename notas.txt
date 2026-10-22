@@ -1,0 +1,11 @@
+Pipeline com ler, tratar, validar e calcular, em funções separadas.
+
+Uma etapa de validação que para a execução e avisa se algo estiver fora do esperado, como colaborador desconhecido ou nota fora de 1 a 5.
+
+Relatório por operador e bimestre, com ISC, % avaliado, pior fila, comparação com a equipe e com o bimestre anterior.
+
+Envio de e-mail só para os endereços de teste (example.com), guiado pela aba Destinatarios.
+
+Log de execução e parâmetros em um arquivo de configuração.
+
+README com a origem do projeto, o fluxo e como rodar, mais a estrutura de pastas no GitHub.
