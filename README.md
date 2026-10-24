@@ -11,6 +11,9 @@ Fiz esse projeto como material de estudo, é uma automatização de fluxo em Pyt
 - A estrutura do fluxo (le uma único relatório do sistema, trata, gera um arquivo por colaborador com backup, calcula indicadores e envia por e-mail o feedback) é uma parte do projeto de automação do curso de Python da [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/).
 - A base de dados, os indicadores, as regras de feedback e a adaptação para o contexto de atendimento são de minha autoria.
 - Continuação do dashboard em Power BI que publiquei em 29/05/2026: [https://lnkd.in/p/db3ycRBq]
+- Adicionei na pasta imagens/ prints das telas do arquivo pbix
+![Visão da equipe](imagens/dashboard_equipe.png)
+![Visão por operador](imagens/dashboard_operador.png)
 
 ## Indicadores
 
